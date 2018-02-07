@@ -6,7 +6,7 @@ const port = 4000
 
 app.use('/graphql', expressGraphQL({
     schema,
-    graphiql:true
+    graphiql: true
 }));
 app.listen(port, () => {
     console.log(`Server is running. LINK: http://localhost:${port}`);
