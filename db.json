@@ -21,12 +21,12 @@
     ],
     "companies": [
         {
-            "id": 1,
+            "id": "1",
             "name": "Apple",
             "description": "osX, iOS, MacBook, iPhone creators"
         },
         {
-            "id": 2,
+            "id": "2",
             "name": "Google",
             "description": "Google, Android, Chrome creators"
         }
